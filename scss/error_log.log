@@ -1,0 +1,169 @@
+05/28/24 2:07:59: main.scss - parse error: failed at `.ds-sm-g` /home/srv43475/domains/wp2.strony-testowe.com.pl/public_html/wp-content/themes/amd-wp/scss/global/_gap.scss on line 798, at column 5
+06/03/24 2:42:42: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:42:53: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:44:43: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:44:55: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:46:44: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:46:44: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:46:55: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:48:45: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/03/24 2:48:56: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:05:59: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:06:13: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:08:14: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:08:28: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:09:28: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:09:42: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 50, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 2
+06/11/24 5:09:59: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:10:14: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:10:29: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:11:04: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:11:19: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:12:40: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:12:55: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:13:25: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:13:40: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:04: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:14: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:14: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:16: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:29: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:14:29: main.scss - Undefined mixin h5: base/_global-settings.scss on line 116, at column 13
+Call Stack:
+#0 import base/_global-settings.scss abstracts/_mixin.scss on line 496
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:15:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:16:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:18:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:20:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:22:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:24:30: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:30:54: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:31:54: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:32:54: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:33:54: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:34:54: main.scss - Undefined mixin h5: base/_typography.scss on line 34, at column 5
+Call Stack:
+#0 import base/_typography.scss base/_reset.scss on line 78
+#1 import base/_main.scss abstracts/_mixin.scss on line 499
+06/11/24 5:36:54: main.scss - Undefined mixin h-input: components/_contact-form.scss on line 56, at column 17
+Call Stack:
+#0 import components/_contact-form.scss abstracts/_mixin.scss on line 123
+#1 import components/_main.scss global/_text.scss on line 85
